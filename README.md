@@ -1,25 +1,25 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]
 <h1 align="center">Hi 👋, I'm Swayam Prakash Sahu</h1>
-<h3 align="center">A Machine learning enthusiast with a keen interest in Development</h3>
+<h3 align="center">A Full Stack Developer with a keen Interest in Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayamsahu&label=Profile%20views&color=0e75b6&style=flat" alt="swayamsahu" /> </p>
 
-- 🔭 I’m currently working on **data science projects to gain practical experience in machine learning, data analysis, and AI. I'm also working on personal software development projects to improve my coding skills.**
+- 🔭 **Full-stack developer** developed and built various projects utilizing technologies like **ASP.NET, JavaScript, TypeScript, Angular, React, HTML, CSS, Python, C, SQL, Postman API, Swagger, Sass, MongoDB, Express, and Node.js.**
 
-- 🌱 I’m currently learning **advanced machine learning techniques, deep learning frameworks like TensorFlow and PyTorch, and natural language processing (NLP). I'm also expanding my knowledge of software development by exploring web development and cloud computing.**
+- 🌱 Currently refining skills in **Angular, React, AWS and SQL** for optimized application development.
 
-- 👯 I’m looking to collaborate on **data science and machine learning projects. If you have an interesting project or idea, feel free to reach out to me!**
+- 👯 Open to collaborative opportunities on innovative full-stack projects. **Reach out with your ideas!**
 
-- 🤝 I’m looking for help with **staying updated on the latest developments in tech, as well as best practices in software development. I'm always open to learning from experienced professionals in the field.**
+- 🤝 Seeking mentorship to stay updated on the **latest trends and best practices in full-stack development. Always eager to learn from experienced professionals.. I'm always open to learning from experienced professionals in the field.**
 
 - 📝 I regularly write articles on [https://hashnode.com/@swayamsahu](https://hashnode.com/@swayamsahu)
 
-- 💬 Ask me about **data preprocessing, feature engineering, model selection, algorithm implementation, and coding in Python. I'm also happy to discuss career advice and the challenges of transitioning into a data science and software development role.**
+- 💬 Ask me about **full-stack development, including front-end and back-end technologies, database management, and API integration. I'm also open to discussing career advice and the challenges of transitioning into a full-stack developer role.**
 
 - 📫 How to reach me **swayam.sahu17@gmail.com**
 
-- ⚡ Fun fact **I'm an avid fan of science fiction literature and movies**
+- ⚡ Fun fact: **I'm a passionate enthusiast for science adventure sports and movies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
