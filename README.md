@@ -41,18 +41,18 @@
 
 ![](https://komarev.com/ghpvc/?username=swayamsahu&abbreviated=true) <br/>
 <a href="https://github.com/swayamsahu">
-![](https://github-readme-stats.vercel.app/api?username=swayamsahu&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)
+<!--![](https://github-readme-stats.vercel.app/api?username=swayamsahu&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true) -->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamsahu&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)  -->
-![](https://github-readme-streak-stats.herokuapp.com/?user=swayamsahu&theme=blue-green&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=swayamsahu&theme=blue-green&hide_border=true) 
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swayamsahu&theme=blue_green) -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swayamsahu&theme=blue_green)
+<!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swayamsahu&theme=blue_green) -->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swayamsahu&theme=blue_green&utcOffset=8) -->
 <br/>
 
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swayamsahu&show_icons=true&locale=en&layout=compact" alt="swayamsahu" /></p> -->
 
-<a href="https://github.com/SwayamSahu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamsahu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!--<a href="https://github.com/SwayamSahu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swayamsahu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
 
 ### ✍️ Random Dev Quote
 
