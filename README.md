@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayamsahu&label=Profile%20views&color=0e75b6&style=flat" alt="swayamsahu" /> </p>
 
-- 🔭 **Full-stack developer** developed and built various projects utilizing technologies like **ASP.NET, JavaScript, TypeScript, Angular, React, HTML, CSS, Python, C, SQL, Postman API, Swagger, Sass, MongoDB, Express, and Node.js.**
+- 🔭 **Full-stack developer** developed and built various projects utilizing technologies like **JavaScript, TypeScript, Angular, React, ASP.NET,HTML, CSS, Python, C, SQL, Postman API, Swagger, Sass, MongoDB, Express, and Node.js.**
 
-- 🌱 Currently refining skills in **Angular, React, AWS and SQL** for optimized application development.
+- 🌱 Currently refining skills in **Next Js, React, AWS and SQL** for optimized application development.
 
 - 👯 Open to collaborative opportunities on innovative full-stack projects. **Reach out with your ideas!**
 
