@@ -15,11 +15,10 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@swayamsahu](https://hashnode.com/@swayamsahu)
 
-- 💬 Ask me about **full-stack development, including front-end and back-end technologies, database management, and API integration. I'm also open to discussing career advice and the challenges of transitioning into a full-stack developer role.**
+- 💬 Ask me about **full-stack development, including front-end and back-end technologies, database management, and API integration.**
 
 - 📫 How to reach me **swayam.sahu17@gmail.com**
 
-- ⚡ Fun fact: **I'm a passionate enthusiast for science adventure sports and movies!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
