@@ -11,8 +11,6 @@
 
 - 👯 Open to collaborative opportunities on innovative full-stack projects. **Reach out with your ideas!**
 
-- 🤝 Seeking mentorship to stay updated on the **latest trends and best practices in full-stack development. Always eager to learn from experienced professionals.. I'm always open to learning from experienced professionals in the field.**
-
 - 📝 I regularly write articles on [https://hashnode.com/@swayamsahu](https://hashnode.com/@swayamsahu)
 
 - 💬 Ask me about **full-stack development, including front-end and back-end technologies, database management, and API integration.**
