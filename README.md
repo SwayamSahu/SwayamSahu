@@ -6,9 +6,29 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayamsahu&label=Profile%20views&color=0e75b6&style=flat" alt="swayamsahu" /> </p>
 
-- 🔭 **Full-stack developer** developed and built various projects utilizing technologies like **JavaScript, TypeScript, Angular, React, ASP.NET,HTML, CSS, Python, C, SQL, Postman API, Swagger, Sass, MongoDB, Express, and Node.js.**
+```javascript
+const seto = {
+  code: [Javascript, Typescript, HTML, CSS, C#, Python, SQL],
+  tools: [
+    React,
+    Angular,
+    NextJS,
+    Vue,
+    Redux, 
+    Node, 
+    Storybook,
+    StyledComponents,
+    Jest,
+    Flask,
+    Prisma,
+    POSTMAN,
+    Figma],
+}
+```
 
-- 🌱 Currently refining skills in **Next Js, React, AWS and SQL** for optimized application development.
+- 🔭 **Full-stack developer** developed and built various projects utilizing technologies like **JavaScript, TypeScript, Angular, React, Next JS, HTML, CSS, Tailwind CSS, Python, C#, ASP.NET, SQL, Postman API, MongoDB, Express, and Node.js.**
+
+- 🌱 Currently refining skills in **Next Js, Docker, AWS and SQL** for optimized application development.
 
 - 👯 Open to collaborative opportunities on innovative full-stack projects. **Reach out with your ideas!**
 
