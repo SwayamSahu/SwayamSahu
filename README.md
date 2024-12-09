@@ -32,7 +32,7 @@ const sp = {
 
 - 👯 Open to collaborative opportunities on innovative full-stack projects. **Reach out with your ideas!**
 
-- 📝 I regularly write articles on [https://hashnode.com/@swayamsahu](https://hashnode.com/@swayamsahu)
+- 📝 I write articles on [https://hashnode.com/@swayamsahu](https://hashnode.com/@swayamsahu)
 
 - 💬 Ask me about **full-stack development, including front-end and back-end technologies, database management, and API integration.**
 
