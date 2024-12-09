@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayamsahu&label=Profile%20views&color=0e75b6&style=flat" alt="swayamsahu" /> </p>
 
 ```javascript
-const seto = {
+const sp = {
   code: [Javascript, Typescript, HTML, CSS, C#, Python, SQL],
   tools: [
     React,
