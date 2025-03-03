@@ -26,7 +26,7 @@ const sp = {
 }
 ```
 
-- 🔭 **Full-stack developer** developed and built various projects utilizing technologies like **JavaScript, TypeScript, Angular, React, Next JS, HTML, CSS, Tailwind CSS, Python, C#, ASP.NET, SQL, Postman API, MongoDB, Express, and Node.js.**
+- 🔭 **Full-stack developer** developed and built projects utilizing technologies like **JavaScript, TypeScript, Python, React, Next JS, HTML, CSS, Tailwind CSS, ASP.NET, SQL, PostgreSQL, MongoDB, Express, and Node.js.**
 
 - 🌱 Currently refining skills in **Next Js, Docker, AWS and SQL** for optimized application development.
 
@@ -61,7 +61,9 @@ const sp = {
 <a href="https://github.com/swayamsahu">
 <!--![](https://github-readme-stats.vercel.app/api?username=swayamsahu&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true) -->
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=swayamsahu&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=swayamsahu&theme=blue-green&hide_border=true) 
+
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swayamsahu&theme=blue_green) -->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=swayamsahu&theme=blue_green) -->
 <!--![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=swayamsahu&theme=blue_green&utcOffset=8) -->
