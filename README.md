@@ -8,7 +8,7 @@
 
 ```javascript
 const sp = {
-  code: [Javascript, Typescript, HTML, CSS, C#, Python, SQL],
+  code: [Javascript, Typescript, Python, HTML, CSS, C, SQL],
   tools: [
     React,
     NextJS,
@@ -29,15 +29,13 @@ const sp = {
 }
 ```
 
-- 🔭 **Full-stack developer** developed and built projects utilizing technologies like **JavaScript, TypeScript, Python, React, Next JS, HTML, CSS, Tailwind CSS, ASP.NET, SQL, PostgreSQL, MongoDB, Express, and Node.js.**
+- 🔭 **Software developer** developed and built projects utilizing technologies like **JavaScript, TypeScript, Python, React, Next JS, FastAPI, Tailwind CSS, SQL, PostgreSQL, MongoDB, Express, and Node.js.**
 
-- 🌱 Currently refining skills in **Next Js, Docker, AWS and SQL** for optimized application development.
-
-- 👯 Open to collaborative opportunities on innovative full-stack projects. **Reach out with your ideas!**
+- 👯 Open to collaborative opportunities on innovative projects. **Reach out with your ideas!**
 
 - 📝 I write articles on [https://hashnode.com/@swayamsahu](https://hashnode.com/@swayamsahu)
 
-- 💬 Ask me about **full-stack development, including front-end and back-end technologies, database management, and API integration.**
+- 💬 Ask me about **AI, ML, NLP, full-stack development, including front-end and back-end technologies, database management, and API integration.**
 
 - 📫 How to reach me **swayam.sahu17@gmail.com**
 
