@@ -1,7 +1,7 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Swayam Prakash Sahu</h1>
-<h3 align="center">A Software Developer with a keen Interest in AI & Machine Learning</h3>
+<h3 align="center">A Software Engineer with a keen Interest in AI & Machine Learning</h3>
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swayamsahu&label=Profile%20views&color=0e75b6&style=flat" alt="swayamsahu" /> </p>
@@ -29,7 +29,7 @@ const sp = {
 }
 ```
 
-- 🔭 **Software developer** developed and built projects utilizing technologies like **JavaScript, TypeScript, Python, React, Next JS, FastAPI, Tailwind CSS, SQL, PostgreSQL, MongoDB, Express, and Node.js.**
+- 🔭 **Software developer** developed and built projects utilizing technologies like **Python, JavaScript, TypeScript, React, Next JS, FastAPI, Flask, LangGraph, LangChain, CrewAI, Tailwind CSS, SQL, PostgreSQL, MongoDB, Express, and Node.js.**
 
 - 👯 Open to collaborative opportunities on innovative projects. **Reach out with your ideas!**
 
@@ -37,17 +37,15 @@ const sp = {
 
 - 💬 Ask me about **AI, ML, NLP, full-stack development, including front-end and back-end technologies, database management, and API integration.**
 
-- 📫 How to reach me **swayam.sahu17@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/swayamps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swayamps" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/swayamps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swayamps" height="30" width="40" /></a>
 <a href="https://kaggle.com/swayamprakashsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swayamprakashsahu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/swayam_sahu17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swayam_sahu17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user1229sl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user1229sl" height="30" width="40" /></a>
-</p>
+</p> -->
 
 ## 💻 Tech Stack:
 
