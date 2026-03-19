@@ -15,7 +15,6 @@ const sp = {
     LangChain,
     LangGraph,
     CrewAI,
-    Autogen,
     Redux, 
     Node, 
     Storybook,
